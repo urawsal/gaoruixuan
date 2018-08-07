@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
    <title>老公调查问卷（其实只有一道题）</title>
